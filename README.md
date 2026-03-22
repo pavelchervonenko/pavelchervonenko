@@ -17,8 +17,6 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 **Core**
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading_&_Concurrency-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP_&_Design_Patterns-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 **Spring Ecosystem**
