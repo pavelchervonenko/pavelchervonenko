@@ -104,7 +104,7 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| [LLM на примере GigaChat](https://bootcamplabs.ru) — Искусственный интеллект | BootcampLabs | Dec 2024 |
+| [LLM на примере GigaChat](bootcamp-sberid.pcbltools.ru) — Искусственный интеллект | BootcampLabs | Dec 2024 |
 
 ---
 
