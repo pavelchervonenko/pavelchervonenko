@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Pavel+Chervonenko;Java+Developer;MAI+%C2%B7+Hexlet+Graduate" alt="Typing SVG" />
-
-<br/>
-
-[![MAI](https://img.shields.io/badge/Moscow_Aviation_Institute-3rd_year-0A66C2?style=flat-square)](https://mai.ru)
-[![Hexlet](https://img.shields.io/badge/Hexlet-Java_Developer-6E40C9?style=flat-square)](https://hexlet.io)
-[![Open to work](https://img.shields.io/badge/Open_to-Junior_Java_Developer-2ea44f?style=flat-square)]()
-
 </div>
 
 ---
@@ -28,7 +20,6 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 ![Multithreading](https://img.shields.io/badge/Multithreading_&_Concurrency-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP_&_Design_Patterns-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Spring Ecosystem**
 
