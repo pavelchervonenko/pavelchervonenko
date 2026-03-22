@@ -1,9 +1,3 @@
-<div align="center">
-
-</div>
-
----
-
 ### About
 
 I build backend systems in Java — from REST APIs and web applications to cryptographic libraries and CLI tools.
@@ -86,10 +80,6 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 | [DeBugg](https://github.com/pavelchervonenko/DeBugg) | Team project: ML module + GigaChat API integration | Python, GigaChat API |
 | [Machine Learning](https://github.com/pavelchervonenko/machine-learning-5sem) | ML course labs: gradient boosting, optimization, model tuning | Python, scikit-learn, Optuna |
 | [System Programming](https://github.com/pavelchervonenko/system-programming) | Shell, IPC, sockets, threading, custom logger, dining philosophers | C, C++ |
-
----
-
-### Certificates
 
 | Certificate | Issuer | Date |
 |---|---|---|
