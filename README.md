@@ -6,7 +6,7 @@
 
 ### About
 
-I build backend systems in Java — from REST APIs and web applications to cryptographic libraries and CLI tools. I care about clean architecture, code quality, and shipping things that actually work.
+I build backend systems in Java — from REST APIs and web applications to cryptographic libraries and CLI tools.
 
 Currently studying at **Moscow Aviation Institute** (3rd year) and have completed the **Hexlet Java Developer** professional program.
 
@@ -96,22 +96,3 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 | Certificate | Issuer | Date |
 |---|---|---|
 | [LLM на примере GigaChat](https://bootcamp-sberid.pcbltools.ru/) — Искусственный интеллект | BootcampLabs | Dec 2024 |
-
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavelchervonenko&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelchervonenko&layout=compact&hide_border=true&theme=default&langs_count=6&exclude_repo=FundAlg3Sem,OS-labs-214-23,DeBugg,hexlet-git)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to junior Java developer positions*
-
-</div>
