@@ -1,8 +1,12 @@
 <div align="center">
 
-**Java Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Pavel+Chervonenko;Java+Developer;MAI+%C2%B7+Hexlet+Graduate" alt="Typing SVG" />
 
-3rd year student at Moscow Aviation Institute · Hexlet Java Developer graduate
+<br/>
+
+[![MAI](https://img.shields.io/badge/Moscow_Aviation_Institute-3rd_year-0A66C2?style=flat-square)](https://mai.ru)
+[![Hexlet](https://img.shields.io/badge/Hexlet-Java_Developer-6E40C9?style=flat-square)](https://hexlet.io)
+[![Open to work](https://img.shields.io/badge/Open_to-Junior_Java_Developer-2ea44f?style=flat-square)]()
 
 </div>
 
@@ -93,6 +97,14 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 | [DeBugg](https://github.com/pavelchervonenko/DeBugg) | Team project: ML module + GigaChat API integration | Python, GigaChat API |
 | [Machine Learning](https://github.com/pavelchervonenko/machine-learning-5sem) | ML course labs: gradient boosting, optimization, model tuning | Python, scikit-learn, Optuna |
 | [System Programming](https://github.com/pavelchervonenko/system-programming) | Shell, IPC, sockets, threading, custom logger, dining philosophers | C, C++ |
+
+---
+
+### Certificates
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| [LLM на примере GigaChat](https://bootcamplabs.ru) — Искусственный интеллект | BootcampLabs | Dec 2024 |
 
 ---
 
