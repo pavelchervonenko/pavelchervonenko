@@ -7,6 +7,12 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 
 ---
 
+## Contact
+
+[![Telegram](https://img.shields.io/badge/@pavelchervonenko-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pavelchervonenko)
+
+---
+
 ## Tech Stack
 
 **Core**
@@ -76,9 +82,3 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 - 📖 Reading *Designing Data-Intensive Applications* — Martin Kleppmann
 - 📡 Exploring **Apache Kafka** — event streaming and message brokers
 - 🏗️ Deepening knowledge of **microservices architecture**
-
----
-
-## Contact
-
-[![Telegram](https://img.shields.io/badge/@pavelchervonenko-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pavelchervonenko)
