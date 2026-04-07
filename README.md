@@ -1,6 +1,6 @@
 # Pavel Chervonenko
 
-**Backend Developer** · Java · Spring Boot · PostgreSQL
+**Backend Developer** · Java · Spring Boot
 
 I build backend systems in Java — REST APIs, web applications, CLI tools and cryptographic libraries.
 Currently studying at **Moscow Aviation Institute** (3rd year) and have completed the **Hexlet Java Developer** professional program.
