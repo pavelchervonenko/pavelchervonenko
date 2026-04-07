@@ -79,12 +79,6 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 
 ---
 
-## GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=pavelchervonenko&style=flat-square&color=grey)
-
----
-
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/@pavelchervonenko-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pavelchervonenko)
