@@ -1,6 +1,6 @@
 # Pavel Chervonenko
 
-**Backend Developer** · Java · Spring Boot · PostgreSQL
+**Backend Developer** · Java · Spring Boot
 
 I build backend systems in Java — REST APIs, web applications, CLI tools and cryptographic libraries.
 Currently studying at **Moscow Aviation Institute** (3rd year) and have completed the **Hexlet Java Developer** professional program.
@@ -81,8 +81,7 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 
 ## GitHub Stats
 
-![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelchervonenko&show_icons=true&hide_border=true&theme=default&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelchervonenko&layout=compact&hide_border=true&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=pavelchervonenko&style=flat-square&color=grey)
 
 ---
 
