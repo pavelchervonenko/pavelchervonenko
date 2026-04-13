@@ -81,11 +81,5 @@ Currently studying at **Moscow Aviation Institute** (3rd year) and have complete
 
 ---
 
-## GitHub Stats
-
-![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelchervonenko&show_icons=true&hide_border=true&theme=default&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelchervonenko&layout=compact&hide_border=true&theme=default)
-
----
 
 
